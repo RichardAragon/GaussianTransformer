@@ -6,7 +6,8 @@ Probabilistic Embeddings: Introduces Gaussian noise during training to improve m
 Gaussian Attention: Enhances the standard attention mechanism with Gaussian kernels, capturing more nuanced token relationships.
 Gaussian Layer: Provides probabilistic modeling with mean and variance projections, generating samples and estimating uncertainty.
 Adaptive Output Combination: Dynamically adjusts the influence of the Transformer and Gaussian components based on estimated uncertainty.
-Installation
+
+## Installation
 Clone the repository:
 
 git clone https://github.com/yourusername/gaussian-transformer.git
